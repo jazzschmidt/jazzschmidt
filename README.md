@@ -1,7 +1,8 @@
 # Hi, my name is Carsten 👋
 
-I am a Clean Code enthusiast, music nerd, wine lover, and lazy software
-developer. TDD ftw!
+![My Avatar](myAvatar.png)
+
+I am a Clean Code enthusiast, music nerd, wine lover, and lazy software developer. TDD ftw!
 
 Most of my public repos are the result of experimenting, are somewhat
 useless, or just not finished at all (🤔 will they ever?). Nonetheless, feel
