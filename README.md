@@ -1,6 +1,6 @@
 # Hi, my name is Carsten 👋
 
-![My Avatar](myAvatar.png)
+![My Avatar](https://github.com/jazzschmidt/jazzschmidt/raw/master/myAvatar.png)
 
 I am a Clean Code enthusiast, music nerd, wine lover, and lazy software developer. TDD ftw!
 
